@@ -7,7 +7,7 @@ const ORDER_FORM_URL = "https://forms.office.com/Pages/ResponsePage.aspx?id=SJPO
 const personalities = {
   pypfinder: {
   name: "PYP Finder",
-  image: "宣传海报/pyp-finder.png",
+  image: "宣传海报/pyp-finder.jpg",
 
   zh: {
     title: "传说中的 PYP 战神",
@@ -24,7 +24,7 @@ const personalities = {
 
   ddlfighter: {
     name: "DDL Fighter",
-    image: "宣传海报/Due-fighter.png",
+    image: "宣传海报/Due-fighter.jpg",
 
     zh: {
       title: "传说中的 PYP 战神",
@@ -41,7 +41,7 @@ const personalities = {
 
   careerfairghost: {
     name: "Career Fair Ghost",
-    image: "宣传海报/career fair ghost.png",
+    image: "宣传海报/career fair ghost.jpg",
 
     zh: {
       title: "Career Fair 幽灵出没",
@@ -58,7 +58,7 @@ const personalities = {
   
   waveresidence: {
     name: "Wave Residence",
-    image: "宣传海报/wave-residence.png",
+    image: "宣传海报/wave-residence.jpg",
 
     zh: {
       title: "健身房常驻人口",
@@ -75,7 +75,7 @@ const personalities = {
 
   lovestruck: {
     name: "Love Struck",
-    image: "宣传海报/lovestruck.png",
+    image: "宣传海报/lovestruck.jpg",
 
     zh: {
       title: "恋爱脑小狮子",
@@ -92,7 +92,7 @@ const personalities = {
 
   starchaser: {
     name: "Star Chaser",
-    image: "宣传海报/star chaser.png",
+    image: "宣传海报/star chaser.jpg",
 
     zh: {
       title: "追星能量补给站",
@@ -109,7 +109,7 @@ const personalities = {
 
   esportsfanatic: {
     name: "E-sports Fanatic",
-    image: "宣传海报/E-sports Fanatic.png",
+    image: "宣传海报/E-sports Fanatic.jpg",
 
     zh: {
       title: "宿舍开黑核心成员",
@@ -126,7 +126,7 @@ const personalities = {
 
   pantryalchemist: {
     name: "Pantry Alchemist",
-    image: "宣传海报/Pantry-Alchemist.png",
+    image: "宣传海报/Pantry-Alchemist.jpg",
 
     zh: {
       title: "宿舍厨房炼金术士",
@@ -143,7 +143,7 @@ const personalities = {
 
   hallhermit: {
     name: "Hall Hermit",
-    image: "宣传海报/hall hermit.png",
+    image: "宣传海报/hall hermit.jpg",
 
   zh: {
       title: "宿舍结界守护者",
@@ -160,7 +160,7 @@ const personalities = {
 
   eventnpc: {
     name: "Event NPC",
-    image: "宣传海报/event-npc.png",
+    image: "宣传海报/event-npc.jpg",
 
     zh: {
       title: "校园活动固定刷新点",
@@ -176,7 +176,7 @@ const personalities = {
 
   ntuloster: {
     name: "NTU Loster",
-    image: "宣传海报/ntu-loster.png",
+    image: "宣传海报/ntu-loster.jpg",
     
     zh: {
       title: "常驻校外的旅行家",
@@ -192,7 +192,7 @@ const personalities = {
 
   dormmixologist: {
     name: "Dorm Mixologist",
-    image: "宣传海报/酒鬼.png",
+    image: "宣传海报/酒鬼.jpg",
 
      zh: {
       title: "宿舍微醺调饮师",
