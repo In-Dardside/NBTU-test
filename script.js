@@ -170,7 +170,7 @@ const personalities = {
     image: "poster/event-npc.jpg",
 
     zh: {
-      title: "校园活动固定刷新点",
+      title: "校园活动固定刷新",
       description: "哪里有活动，哪里就有你的身影。",
       tags: ["活动雷达", "Free Food 猎人", "社交在线"]
     },
